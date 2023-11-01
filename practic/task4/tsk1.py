@@ -123,3 +123,6 @@ if __name__ == '__main__':
     print(f"Евклидово расстояние: {euclidean_dist}")
     print(f"Мера близости (формула 1): {sim_score1}")
     print(f"Мера близости (формула 2): {sim_score2}")
+#task3
+
+
